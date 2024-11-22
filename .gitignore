@@ -1,5 +1,0 @@
-# Exclude everything in the folder
-home/*
-
-# Include the folder itself
-!home/
