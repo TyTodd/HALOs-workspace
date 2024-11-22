@@ -1,0 +1,4 @@
+data/*
+data/tokenized-events-TrainShuffled.txt
+data/tokenized-events-Validation.txt
+
